@@ -1,1 +1,1 @@
-# mind-loom
+# About MindLoom
